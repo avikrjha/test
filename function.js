@@ -59,4 +59,4 @@ const person = {
   const boundGreet = person.greet.bind(alice, "Hey");
   boundGreet("...");
 
-  
+  console.log("Bound")
