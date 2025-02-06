@@ -19,4 +19,4 @@ x(function y(){
   and is then invoked (called) inside the outer function to complete some kind of routine or action.
 
 */
-console.log("hello")
+
